@@ -1,0 +1,19 @@
+{
+  "name": "fmail",
+  "version": "1.0.0",
+  "description": "* How do we build a non trivial application from scratch?\r * How does a agile application delivery process work?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaniDev/fmail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmaniDev/fmail/issues"
+  },
+  "homepage": "https://github.com/AmaniDev/fmail#readme"
+}
